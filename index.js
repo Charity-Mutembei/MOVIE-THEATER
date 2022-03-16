@@ -1,0 +1,2 @@
+var movies = ["Bad Boys For Life", "The Gentlemen", "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)", "Gretel and Hansel","Downhill", "Blumhouse's Fantasy Island"]
+var time = ["11-12", "12-1", "" ]
